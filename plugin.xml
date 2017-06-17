@@ -50,7 +50,7 @@
       </array>
     </config-file>
     <!-- Usage description of the Calendar for iOS 6+, mandatory since iOS 10 -->
-    <preference name="CALENDAR_USAGE_DESCRIPTION" default=" " />
+    <preference name="CALENDAR_USAGE_DESCRIPTION" default="Instant Pickup uses your calendar to schedule orders" />
     <config-file target="*-Info.plist" parent="NSCalendarsUsageDescription">
       <string>Instant Pickup uses your calendar to schedule orders</string>
     </config-file>
